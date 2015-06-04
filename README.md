@@ -8,4 +8,6 @@ for the full manual consult the wiki
 
 # Quick installation guide
 
-Lorem 
+
+
+Lorem
